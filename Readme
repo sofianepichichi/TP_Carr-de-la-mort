@@ -1,0 +1,62 @@
+
+Nom: KACI
+Prenom: Sofiane
+
+
+
+
+
+Q1)
+
+     +3
+
+                 -2
+    
++1       +1
+
+
+                  +1
+         0    
+
+Question 2:
+
+S'il existe au moins un successeur avec une valeur négative,
+prendre le successeur avec la plus grande valeur (On considère 0 comme un nombre négatif).
+il n'y a aucun successeur avec une valeur négative,
+prendre le successeur avec la plus grande valeur.
+
+
+Question 3:
+
+(10,7,7,3) met 5 secondes à s'éxecuter
+(10,7,5,3) met 11 secondes à s'éxecuter
+
+
+La complexité de cet algorithme( naif)  est exponentiel car à chaque récursion je fait 4 boucles  et il faut résoudre (n+m)
+sous problémes qui exécutent autant de récursion que la taille de leur boucle
+
+Question4 :
+
+
+
+
+
+Question 5 :
+les configurations qui vaut 127 comme résultat j'ai obtenu les configuration ci_dessous:
+
+
+configuration: 127, 127, 126, 63 = 127
+configuration: 127, 127, 63, 126 = 127
+configuration: 127, 127, 63, 0 = 127
+
+
+
+Question 6 :
+
+le grandeur de la compléxité est en O(n^4), car (m*m * n*n).
+
+Question 7 :
+
+logiquement  sont ce les mémes,
+admettant que la tablette du chocolat est une matrice à 2 Dimensions , on va mettre l'inverce pour chaque
+colonne de la matrice.
